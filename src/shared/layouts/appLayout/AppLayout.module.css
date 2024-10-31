@@ -1,0 +1,6 @@
+.navBar {
+    border-inline-end: 100px solid var(neutral-gray-gray-25) !important;
+}
+.mantine-AppShell-navbar {
+    border-inline-end: 100px solid var(neutral-gray-gray-25) !important;
+}
